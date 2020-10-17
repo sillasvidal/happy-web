@@ -1,0 +1,4 @@
+[1015/082644.927:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/121512.178:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Silas\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c701e3f1-4993-4588-857d-cf1c3145fb62: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/122104.840:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Silas\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0a08b2e7-7546-4260-b50f-dbb16a895fb2: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/222952.977:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
